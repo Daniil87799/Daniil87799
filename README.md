@@ -1,5 +1,6 @@
 # Hello, I’m Daniil
-- Interested in client side programming + gamedev
+- Interested in client side programming + gamedev 
+- I use TypeScript, Java, but mostly C#
 - Looking for a job
 - You can reach me by email - daniil87799@gmail.com
 
