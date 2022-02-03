@@ -1,12 +1,8 @@
-# Hello, I’m Daniil
-- Interested in Backend + gamedev 
-- I use C#, Python
-- Looking for a job
-- You can reach me by email - daniil87799@gmail.com
+### Hello, I’m Daniil
 
-It will be very kind of you browsing my code ~
+I am 17 yo programmer from Saint-Petersburg, Russia. My main language is C#, also have some experience with Python.
 
-<!---
-Daniil87799/Daniil87799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains code written in C# and Python.
+
+You can contact me by email - daniil87799@gmail.com
+
